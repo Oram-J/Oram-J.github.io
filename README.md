@@ -1,2 +1,2 @@
 # Oram-J.github.io
-Repository for my GitHub Portfolio Website
+ This portfolio website is here as part of my course studies at Tech Academy as proof of concept. Throughout my courses it has evolved as I have learned new techniques and languages. This began using HTML as well as CSS to create a one page website with a slideshow and video background. In learning Javascript it further enabled me to create additional functionality such as working  functional buttons for the slideshow. As time goes on I will update the site and this README with additional functionality and information. 
